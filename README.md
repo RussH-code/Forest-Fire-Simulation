@@ -1,5 +1,8 @@
 # FIRE!! - A Forest Fire Simulation with Cellular Automata
 
+To view the simulations, go to Forest_Fire_Model.ipynb.
+To implement the project, keep reading!
+
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Requirements](#Requirements)
