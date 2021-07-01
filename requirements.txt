@@ -1,0 +1,7 @@
+opencv-python
+perlin-noise
+numpy
+matplotlib
+pandas
+ipython
+pytest
